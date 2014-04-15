@@ -1,5 +1,4 @@
 
-
 Aim to to transition to ASICs but FPGAs are being used for the prototype.
 
 ## Intro
@@ -19,7 +18,7 @@ MDK does not address:
 * Endos
 * Module shell aesthetic design
 
-# Organization of the MDK:
+## Organization of the MDK:
 
 1. Licensing
 2. Industrial Design
@@ -31,3 +30,21 @@ MDK does not address:
 8. Environmental
 9. Module Marketplace
 10. Regulatory Certification
+
+## Ara Architecture Definitions
+
+#### XYZ definition:
+* Z outward normal from the "front screen" (implied front is main screen side)
+* Y up 
+* right (when looking at front screen)
+
+#### Endo Slots Dissection:
+* Endo Spines
+* Endo Ribs
+* Interfaec Block
+* PowerPads (Gold)
+* Capacitative Pads
+
+
+## How do I get an MDK?
+
