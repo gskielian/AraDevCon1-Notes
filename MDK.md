@@ -1,4 +1,3 @@
-
 Aim to to transition to ASICs but FPGAs are being used for the prototype.
 
 ## Intro
@@ -48,3 +47,6 @@ MDK does not address:
 
 ## How do I get an MDK?
 
+* projectara.com/mdk
+
+* Git code repo -- *Coming Soon*
