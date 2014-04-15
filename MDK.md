@@ -50,3 +50,12 @@ MDK does not address:
 * projectara.com/mdk
 
 * Git code repo -- *Coming Soon*
+
+
+## How do I get support?
+
+#### Developer Forum:
+
+* Google Group: ara-module-developers@googlegroups.com
+* Prototype contract: manufacturere ara-support@aqs-inc.com
+* Directly Contact Team: ara-dev@google.com 
